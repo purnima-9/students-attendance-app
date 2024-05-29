@@ -1,0 +1,20 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CO432-THEORY OF COMPUTATION "
+Faculty:,"Ram Charan Baishya"
+total,3
+start,2024-05-28
+end,2024-05-30
+slno,roll_no,name,2024-05-28,2024-05-29,2024-05-30,attended,percent
+1,CSB21003,"Ryan Thompson",P,P,P,3,100
+2,CSB21008,"Emma Miller",A,A,P,1,33.33
+3,CSB21009,"David Wilson",P,P,A,2,66.67
+4,CSB21010,"Sarah Taylor",P,A,A,1,33.33
+5,CSB21011,"Michael Martinez",A,A,A,0,0
+6,CSM21003,"Ethan Martinez",A,P,A,1,33.33
+7,CSM21004,"Olivia Hernandez",P,A,A,1,33.33
+8,CSM21005,"Mason Lopez",A,A,A,0,0
+9,CSM21006,"Sophia Perez",A,P,A,1,33.33
+10,CSM21008,"Ava Johnson",P,P,A,2,66.67
+11,CSM21010,"Emily Brown",A,A,P,1,33.33
+12,CSM21011,"James Rodriguez",A,A,P,1,33.33
+13,CSM21012,"Emma Hernandez",P,P,P,3,100
